@@ -1,6 +1,8 @@
 # Project Overview
 This projects implements a user-friendly theatre seat booking system that allows user to select movies, show-times, and seats with an intuitive visual interface. The UI is fully responsive and adapts to different screen sizes, providing a seamless booking experience across devices.
 
+**Live Site:** [https://tickettap.netlify.app](https://tickettap.netlify.app)
+
 ## Features
 + Interactive Seat Selection: Visual seat grid with intuitive click-to-select functionality
 + Responsive Design: Optimized for desktop, tablet, and mobile devices
